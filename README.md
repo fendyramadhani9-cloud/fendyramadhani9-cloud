@@ -1,76 +1,172 @@
-# Hi there, I'm fendy - ramadhani[Fendy](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
-## About me:
-💬 About Me – Fendy Ramadhani
+👋 Hi there, I'm Fendy Ramadhani
 
-I am a 16-year-old student majoring in Computer and Network Engineering (TJKT) at vocational high school. I have a strong interest in cyber security, Python programming, and Arduino-based IoT development.
+🚀 AI Enthusiast | Machine Learning Developer | Cyber Security Learner
+📍 Banyumas, Indonesia
 
-I enjoy exploring new technologies, building small tech projects, and continuously improving my technical skills through self-learning, online courses, and hands-on practice. I’m also passionate about solving problems and understanding how things work — both in software and hardware.
+🧠 About Me
 
-Currently, I am focused on building my portfolio and seeking opportunities to grow through internships, tech competitions, and collaborative projects. I believe that technology, when combined with creativity and persistence, can
+Hi, I'm Fendy Ramadhani, a vocational high school student majoring in Computer and Network Engineering (TJKT) with a strong passion for Artificial Intelligence (AI), Machine Learning, and Cyber Security.
 
-## Education:
+I focus on building intelligent systems using Python, exploring modern AI tools such as TensorFlow, PyTorch, and experimenting with Computer Vision, NLP (Natural Language Processing), and IoT-based AI automation.
 
-#### 1. [smkn 1 banyumas](https://smkn1bms.sch.id/) computer network and telecommunications engineering| banyumas `2024-2025`
-   💻 Teknologi & Jaringan Komputer
+I enjoy analyzing data, training machine learning models, optimizing algorithms, and creating real-world projects that combine AI + security + IoT. My goal is to become a future AI Engineer / Cyber Security Specialist, contributing to impactful innovations in technology.
 
-Instalasi dan konfigurasi jaringan LAN/WLAN
+Currently, I am building my portfolio through continuous learning, hands-on AI projects, and participating in tech collaborations and competitions.
 
-Setup Mikrotik Router (Hotspot, DHCP, Firewall)
+🎯 Interests & Focus Areas
 
-Dasar administrasi jaringan (IP Addressing, Subnetting)
+🤖 Artificial Intelligence & Machine Learning
 
-Manajemen dan troubleshooting jaringan komputer
+🧠 Deep Learning (CNN, RNN, Transformers)
 
-Konfigurasi perangkat Cisco Packet Tracer (simulasi)
+👁️ Computer Vision (Image Classification, Detection)
 
+🗣️ Natural Language Processing (Chatbot, Text Analysis)
 
-🔐 Cyber Security (Dasar)
+📊 Data Science & Data Analytics
 
-Pengenalan ethical hacking & penetration testing
+🔐 Cyber Security & Ethical Hacking
 
-Penggunaan tools dasar: Wireshark, Nmap, Netcat
+🌐 IoT Automation with AI Integration
 
-Deteksi celah keamanan sederhana
+🛠️ Tech Stack & Tools
+🐍 Programming Languages
 
-Edukasi pencegahan phishing & social engineering
+Python (Main Language for AI & Automation)
 
+Arduino C/C++
 
-🤖 IoT & Arduino
+Bash (Basic)
 
-Pembuatan sistem otomatisasi menggunakan Arduino Uno/Nano
+Networking CLI (Cisco/Mikrotik)
 
-Pemrograman sensor (DHT11, PIR, Ultrasonic, LDR)
+🤖 AI / Data Science Tools
 
-Kontrol output (LED, relay, buzzer)
+TensorFlow (Beginner–Intermediate)
 
-Monitoring suhu, kelembapan, dan gerakan
+PyTorch (Beginner)
 
-Perakitan komponen elektronik dasar
+Scikit-learn
 
+Pandas, NumPy, Matplotlib
 
-🐍 Pemrograman Dasar (Python & Arduino C)
+OpenCV (Computer Vision)
 
-Pembuatan program CLI sederhana dengan Python
+Jupyter Notebook / Google Colab
 
-Penggunaan logika if-else, loop, function
+🧠 AI Concepts Learned
 
-Otomatisasi kecil: rename file, kalkulator, dsb
+Supervised & Unsupervised Learning
 
-Menulis dan debugging kode Arduino
+Model Training & Evaluation
 
+Regression & Classification
 
-🧠 Soft Skills
+Feature Engineering
 
-Problem Solving (pemecahan masalah teknis)
+Neural Networks
 
-Critical Thinking (berpikir logis & analitis)
+Image Processing & Dataset Handling
 
-Kerja Tim dalam proyek kelompok atau ekstrakurikuler
+🔐 Cyber Security Tools
 
-Manajemen Waktu (membagi waktu antara praktik & tugas sekolah)
+Nmap
 
-Komunikasi Teknis (menjelaskan proyek atau solusi ke orang lain)
- 
+Wireshark
+
+Netcat
+
+Linux Networking Tools
+
+🌐 Networking Skills
+
+IP Addressing & Subnetting
+
+LAN/WLAN Setup
+
+Mikrotik Router Configuration
+
+Basic Firewall & Routing Concepts
+
+Cisco Packet Tracer Simulation
+
+🎓 Education
+🏫 SMKN 1 Banyumas
+
+Computer Network and Telecommunications Engineering (TJKT) | Banyumas
+2024 - Present
+
+📌 Skills & Learning Experience
+🤖 Artificial Intelligence & Machine Learning
+
+Training machine learning models using Python
+
+Building classification models (spam detection, image classification)
+
+Data preprocessing, cleaning, and visualization
+
+Understanding neural network fundamentals
+
+Working with datasets (CSV, image datasets)
+
+👁️ Computer Vision
+
+Image manipulation and preprocessing with OpenCV
+
+Object detection and image classification concepts
+
+Applying AI models for real-world vision tasks
+
+🧠 Natural Language Processing (NLP)
+
+Text processing and tokenization
+
+Basic chatbot and sentiment analysis exploration
+
+Experimenting with AI tools for language modeling
+
+🔐 Cyber Security (Fundamental)
+
+Ethical hacking fundamentals & penetration testing basics
+
+Network scanning and reconnaissance
+
+Understanding phishing & social engineering prevention
+
+Basic vulnerability analysis
+
+🤖 IoT & Smart Automation
+
+Arduino-based automation systems
+
+Sensor programming (DHT11, PIR, Ultrasonic, LDR)
+
+Relay control systems for automation
+
+IoT monitoring systems integration
+
+🌟 Soft Skills
+
+Problem Solving & Analytical Thinking
+
+Fast Learner & Self-Learning Mindset
+
+Team Collaboration & Project Communication
+
+Time Management & Discipline
+
+Technical Documentation & Reporting
+
+📈 Current Goals
+
+✅ Build AI-based portfolio projects
+✅ Improve deep learning and model deployment skills
+✅ Explore AI for Cyber Security (Malware detection, anomaly detection)
+✅ Join internships, competitions, and collaborative AI projects
+
+📫 Contact Me
+
+📧 Email: fendyramadhani9@gmail.com
 ### Languages and Tools:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
