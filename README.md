@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- HERO BANNER — markdown syntax avoids HTML encoding issues -->
-![Fendy Ramadhani](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=FENDY%20RAMADHANI&fontSize=50&fontColor=00f0ff&animation=twinkling&fontAlignY=42&desc=Platform%20Engineer%20%7C%20Cloud%20Infrastructure%20%26%20Automation&descAlignY=62&descAlign=50&descSize=17)
+<!-- HERO BANNER — self-hosted HD asset (100% reliable, immune to Vercel rate limits) -->
+![Fendy Ramadhani - Platform Engineer](assets/hero-banner.jpg)
+
+<br/>
 
 <!-- TYPING ANIMATION -->
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&random=false&width=700&height=55&lines=Platform+Engineer;Cloud+Infrastructure+%26+Automation;Infrastructure+as+Code+(IaC);CI%2FCD+%26+DevOps+Pipelines;Kubernetes+%26+Container+Orchestration;Full-Stack+Observability;GitOps+%26+Developer+Platforms)
@@ -257,8 +259,10 @@ graph LR
 
 <div align="center">
 
-![Footer Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=700&height=40&lines=BUILD+---%3E+DEPLOY+---%3E+MONITOR+---%3E+IMPROVE+---%3E+REPEAT;Infrastructure+is+Code.+Automation+is+Leverage.)
+![Footer Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=700&height=40&lines=BUILD+---%3E+DEPLOY+---%3E+MONITOR+---%3E+IMPROVE+---%3E+REPEAT;Infrastructure+is+Code.+Automation+is+Leverage.+Observability+is+Visibility.)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<br/>
+
+![Cyber Footer](https://img.shields.io/badge/%E2%9A%A1_PLATFORM_ENGINEERING-SYSTEMS_INITIALIZED-00f0ff?style=for-the-badge&labelColor=050811)
 
 </div>
