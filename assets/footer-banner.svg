@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="100%" height="110">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="900" height="110">
   <defs>
     <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#050811" />
@@ -16,7 +17,7 @@
   </defs>
 
   <style>
-    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; }
+    .mono { font-family: 'Fira Code', 'Courier New', monospace; }
   </style>
 
   <rect width="900" height="110" rx="10" fill="url(#footer-bg)" stroke="#1e293b" stroke-width="1.5" />

@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="240">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
   <defs>
     <!-- Background Gradients -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -11,16 +12,14 @@
     <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00f0ff" />
       <stop offset="50%" stop-color="#7000ff" />
-      <stop offset="100%" stop-color="#00f0ff">
-        <animate attributeName="stop-color" values="#00f0ff;#7000ff;#00f5d4;#00f0ff" dur="6s" repeatCount="indefinite" />
-      </stop>
+      <stop offset="100%" stop-color="#00f0ff" />
     </linearGradient>
 
     <!-- Scanning Line Glow -->
     <linearGradient id="scan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="transparent" />
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0" />
       <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="transparent" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0" />
     </linearGradient>
 
     <!-- Border Glow Filter -->
@@ -31,22 +30,13 @@
 
     <!-- Grid Pattern -->
     <pattern id="cyber-grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00f0ff" stroke-width="0.5" stroke-opacity="0.07" />
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00f0ff" stroke-width="0.5" stroke-opacity="0.08" />
     </pattern>
   </defs>
 
   <style>
-    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; }
+    .mono { font-family: 'Fira Code', 'Courier New', monospace; }
     .title { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 900; letter-spacing: 6px; }
-    .scan-line {
-      animation: scan 4s linear infinite;
-    }
-    @keyframes scan {
-      0% { transform: translateY(0px); opacity: 0; }
-      10% { opacity: 1; }
-      90% { opacity: 1; }
-      100% { transform: translateY(240px); opacity: 0; }
-    }
   </style>
 
   <!-- Base Canvas -->
@@ -78,14 +68,14 @@
       <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite" />
     </circle>
     <text x="56" y="42" fill="#00f0ff" font-weight="bold">SYSTEM STATUS: OPTIMAL</text>
-    <text x="730" y="42" fill="#94a3b8">NODE // CLOUD-EDGE-01</text>
+    <text x="680" y="42" fill="#94a3b8">NODE // CLOUD-EDGE-01</text>
   </g>
 
   <!-- Main Headline -->
   <text x="450" y="112" text-anchor="middle" class="title" font-size="44" fill="url(#text-grad)" filter="url(#glow)">FENDY RAMADHANI</text>
 
   <!-- Subtitle -->
-  <text x="450" y="148" text-anchor="middle" class="mono" font-size="16" font-weight="600" fill="#94a3b8" letter-spacing="2">
+  <text x="450" y="148" text-anchor="middle" class="mono" font-size="15" font-weight="600" fill="#94a3b8" letter-spacing="2">
     PLATFORM ENGINEER <tspan fill="#00f0ff">//</tspan> CLOUD INFRASTRUCTURE &amp; AUTOMATION
   </text>
 
