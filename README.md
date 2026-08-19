@@ -15,6 +15,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-venzone.web.id-7000ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050811)](https://venzone.web.id)
 [![Email](https://img.shields.io/badge/Email-fendyramadhani9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050811)](mailto:fendyramadhani9@gmail.com)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=fendyramadhani9-cloud&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=050811)
+
 </div>
 
 ---
@@ -236,6 +239,10 @@ graph LR
 ## GITHUB METRICS
 
 <div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=fendyramadhani9-cloud&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=8)](https://github.com/fendyramadhani9-cloud)
+
+<br/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fendyramadhani9-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050811&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&border_radius=10)](https://github.com/fendyramadhani9-cloud)
 [![Streak Stats](https://streak-stats.demolab.com/?user=fendyramadhani9-cloud&theme=tokyonight&hide_border=true&background=050811&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&border_radius=10)](https://github.com/fendyramadhani9-cloud)
