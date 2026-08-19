@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="100%" height="110">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#0a0f1d" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+    <linearGradient id="neon-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="50%" stop-color="#7000ff" />
+      <stop offset="100%" stop-color="#00f0ff" />
+    </linearGradient>
+    <pattern id="foot-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#00f0ff" stroke-width="0.5" stroke-opacity="0.05" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; }
+  </style>
+
+  <rect width="900" height="110" rx="10" fill="url(#footer-bg)" stroke="#1e293b" stroke-width="1.5" />
+  <rect width="900" height="110" rx="10" fill="url(#foot-grid)" />
+
+  <!-- Flow Loop Text -->
+  <text x="450" y="46" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="url(#neon-glow)" letter-spacing="3">
+    [ BUILD ]  &rarr;  [ DEPLOY ]  &rarr;  [ MONITOR ]  &rarr;  [ IMPROVE ]  &rarr;  [ REPEAT ]
+  </text>
+
+  <!-- Tagline -->
+  <text x="450" y="78" text-anchor="middle" class="mono" font-size="12" fill="#64748b" letter-spacing="1">
+    Infrastructure is Code. Automation is Leverage. Observability is Visibility.
+  </text>
+
+  <!-- Cyber Accents -->
+  <path d="M 15 35 L 15 15 L 35 15" fill="none" stroke="#00f0ff" stroke-width="2" />
+  <path d="M 865 15 L 885 15 L 885 35" fill="none" stroke="#7000ff" stroke-width="2" />
+  <path d="M 15 75 L 15 95 L 35 95" fill="none" stroke="#7000ff" stroke-width="2" />
+  <path d="M 865 95 L 885 95 L 885 75" fill="none" stroke="#00f0ff" stroke-width="2" />
+</svg>

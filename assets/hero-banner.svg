@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="240">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#0a0f1d" />
+      <stop offset="100%" stop-color="#060913" />
+    </linearGradient>
+
+    <!-- Neon Text Gradient -->
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="50%" stop-color="#7000ff" />
+      <stop offset="100%" stop-color="#00f0ff">
+        <animate attributeName="stop-color" values="#00f0ff;#7000ff;#00f5d4;#00f0ff" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Scanning Line Glow -->
+    <linearGradient id="scan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent" />
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="transparent" />
+    </linearGradient>
+
+    <!-- Border Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="cyber-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00f0ff" stroke-width="0.5" stroke-opacity="0.07" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; }
+    .title { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 900; letter-spacing: 6px; }
+    .scan-line {
+      animation: scan 4s linear infinite;
+    }
+    @keyframes scan {
+      0% { transform: translateY(0px); opacity: 0; }
+      10% { opacity: 1; }
+      90% { opacity: 1; }
+      100% { transform: translateY(240px); opacity: 0; }
+    }
+  </style>
+
+  <!-- Base Canvas -->
+  <rect width="900" height="240" rx="12" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="1.5" />
+  <rect width="900" height="240" rx="12" fill="url(#cyber-grid)" />
+
+  <!-- Animated Scanning Beam -->
+  <rect width="900" height="2" fill="url(#scan-grad)" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 240" dur="4s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Ambient Glow Circles -->
+  <circle cx="150" cy="60" r="90" fill="#00f0ff" opacity="0.04" filter="url(#glow)" />
+  <circle cx="750" cy="180" r="100" fill="#7000ff" opacity="0.05" filter="url(#glow)" />
+
+  <!-- Cyberpunk Frame Accents -->
+  <!-- Top-Left Corner -->
+  <path d="M 20 50 L 20 20 L 50 20" fill="none" stroke="#00f0ff" stroke-width="2.5" stroke-linecap="round" />
+  <!-- Top-Right Corner -->
+  <path d="M 850 20 L 880 20 L 880 50" fill="none" stroke="#7000ff" stroke-width="2.5" stroke-linecap="round" />
+  <!-- Bottom-Left Corner -->
+  <path d="M 20 190 L 20 220 L 50 220" fill="none" stroke="#7000ff" stroke-width="2.5" stroke-linecap="round" />
+  <!-- Bottom-Right Corner -->
+  <path d="M 850 220 L 880 220 L 880 190" fill="none" stroke="#00f0ff" stroke-width="2.5" stroke-linecap="round" />
+
+  <!-- HUD Status Bar Top -->
+  <g class="mono" font-size="11" fill="#64748b" letter-spacing="1.5">
+    <circle cx="45" cy="38" r="4" fill="#00f0ff">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="56" y="42" fill="#00f0ff" font-weight="bold">SYSTEM STATUS: OPTIMAL</text>
+    <text x="730" y="42" fill="#94a3b8">NODE // CLOUD-EDGE-01</text>
+  </g>
+
+  <!-- Main Headline -->
+  <text x="450" y="112" text-anchor="middle" class="title" font-size="44" fill="url(#text-grad)" filter="url(#glow)">FENDY RAMADHANI</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="148" text-anchor="middle" class="mono" font-size="16" font-weight="600" fill="#94a3b8" letter-spacing="2">
+    PLATFORM ENGINEER <tspan fill="#00f0ff">//</tspan> CLOUD INFRASTRUCTURE &amp; AUTOMATION
+  </text>
+
+  <!-- Decorative Circuit Line -->
+  <line x1="220" y1="168" x2="680" y2="168" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
+
+  <!-- Tech Focus Badges in Banner -->
+  <g class="mono" font-size="11" font-weight="500" fill="#38bdf8" text-anchor="middle">
+    <rect x="160" y="185" width="100" height="24" rx="4" fill="#0b1329" stroke="#1e293b" />
+    <text x="210" y="201">IaC &amp; TF</text>
+
+    <rect x="275" y="185" width="105" height="24" rx="4" fill="#0b1329" stroke="#1e293b" />
+    <text x="327" y="201">K8s &amp; K3s</text>
+
+    <rect x="395" y="185" width="110" height="24" rx="4" fill="#0b1329" stroke="#1e293b" />
+    <text x="450" y="201">CI/CD PIPELINE</text>
+
+    <rect x="520" y="185" width="110" height="24" rx="4" fill="#0b1329" stroke="#1e293b" />
+    <text x="575" y="201">OBSERVABILITY</text>
+
+    <rect x="645" y="185" width="95" height="24" rx="4" fill="#0b1329" stroke="#1e293b" />
+    <text x="692" y="201">AUTOMATION</text>
+  </g>
+</svg>
