@@ -91,40 +91,21 @@
 
 ## PLATFORM ENGINEERING SKILLS MAP
 
-```mermaid
-mindmap
-  root((Platform<br/>Engineer))
-    Cloud Infrastructure
-      AWS Services
-      Cloudflare Edge
-      Networking & DNS
-      MikroTik Routing
-    IaC & Automation
-      Terraform
-      GitHub Actions
-      Bash Scripting
-      CI/CD Pipelines
-    Container Platform
-      Docker Engine
-      Kubernetes
-      K3s Edge Clusters
-      Helm Charts
-    Observability
-      Grafana Dashboards
-      Netdata
-      Prometheus Metrics
-      Grafana Loki
-    Development
-      Python
-      Go
-      TypeScript
-      Node.js
-    GitOps & DevEx
-      Argo CD
-      Platform Engineering
-      Internal Dev Platforms
-      Developer Experience
-```
+<div align="center">
+
+<img src="assets/tech-globe.jpg" width="100%" alt="Platform Engineering Tech Globe — AWS · Kubernetes · Docker · Terraform · GitHub · Linux · Grafana" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=050811" />
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=050811" />
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=050811" />
+<img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white&labelColor=050811" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=050811" />
+<img src="https://img.shields.io/badge/Linux-OS%20Core-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=050811" />
+<img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=050811" />
+
+</div>
 
 ---
 
