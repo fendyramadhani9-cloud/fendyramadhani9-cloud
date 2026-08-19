@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HERO BANNER — self-hosted HD asset (100% reliable, immune to Vercel rate limits) -->
-![Fendy Ramadhani - Platform Engineer](assets/hero-banner.jpg)
+<!-- HERO BANNER — Vector Cyberpunk SVG Banner -->
+![Fendy Ramadhani - Platform Engineer](assets/hero-banner.svg)
 
 <br/>
 
