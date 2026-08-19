@@ -24,22 +24,13 @@
 
 <div align="center">
 
-```ini
-[ SYSTEM MONITORING HUD // INITIALIZED ]
-================================================================================
-HOST: venzone-infra-node-01        KERNEL: Linux 6.x-cloud       STATUS: HEALTHY
-CLUSTER: k3s-edge-primary          NETWORK: Cloudflare Mesh      UPTIME: 99.98%
-AUTOMATION: GitHub Actions CI/CD   OBSERVABILITY: Active         ENV: Production
-================================================================================
-```
-
 <table>
   <tr>
-    <td align="center"><b>CORE PLATFORM</b><br/><img src="https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=flat-square&labelColor=0a0e17" /></td>
-    <td align="center"><b>CI / CD PIPELINE</b><br/><img src="https://img.shields.io/badge/PIPELINE-ACTIVE-10b981?style=flat-square&labelColor=0a0e17" /></td>
-    <td align="center"><b>CONTAINER RUNTIME</b><br/><img src="https://img.shields.io/badge/CONTAINERS-RUNNING-0077b6?style=flat-square&labelColor=0a0e17" /></td>
-    <td align="center"><b>OBSERVABILITY</b><br/><img src="https://img.shields.io/badge/MONITORING-ONLINE-7928ca?style=flat-square&labelColor=0a0e17" /></td>
-    <td align="center"><b>CLOUD MESH</b><br/><img src="https://img.shields.io/badge/CLOUD-CONNECTED-00f5d4?style=flat-square&labelColor=0a0e17" /></td>
+    <td align="center" width="20%"><b>CORE PLATFORM</b><br/><img src="https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=flat-square&labelColor=0a0e17" /></td>
+    <td align="center" width="20%"><b>CI / CD PIPELINE</b><br/><img src="https://img.shields.io/badge/PIPELINE-ACTIVE-10b981?style=flat-square&labelColor=0a0e17" /></td>
+    <td align="center" width="20%"><b>CONTAINER RUNTIME</b><br/><img src="https://img.shields.io/badge/CONTAINERS-RUNNING-0077b6?style=flat-square&labelColor=0a0e17" /></td>
+    <td align="center" width="20%"><b>OBSERVABILITY</b><br/><img src="https://img.shields.io/badge/MONITORING-ONLINE-7928ca?style=flat-square&labelColor=0a0e17" /></td>
+    <td align="center" width="20%"><b>CLOUD MESH</b><br/><img src="https://img.shields.io/badge/CLOUD-CONNECTED-00f5d4?style=flat-square&labelColor=0a0e17" /></td>
   </tr>
 </table>
 
@@ -49,120 +40,151 @@ AUTOMATION: GitHub Actions CI/CD   OBSERVABILITY: Active         ENV: Production
 
 ### [//] ABOUT THE ENGINEER
 
+<div align="center">
+
 > Platform Engineer focused on cloud infrastructure, automation, CI/CD, observability, networking, and developer platforms. Committed to building robust, self-healing, and observable systems through Infrastructure as Code and automated delivery pipelines.
 
-```
-+-------------------+-------------------------------------------------------------+
-| PARAMETER         | SPECIFICATION                                               |
-+-------------------+-------------------------------------------------------------+
-| Primary Track     | Platform Engineering & Cloud Infrastructure                 |
-| Core Focus        | IaC, Container Orchestration, CI/CD Automation, Observability|
-| Architecture      | Declarative, Modular, Observable, Automated                 |
-| Supporting Tech   | Applied Machine Learning & Intelligent Automation           |
-+-------------------+-------------------------------------------------------------+
-```
+<br/>
 
----
-
-### [//] LIVE DEVELOPER PRESENCE & SPOTIFY TELEMETRY
-
-<div align="center">
 <table>
   <tr>
-    <th width="50%" align="center">LIVE DISCORD PRESENCE</th>
-    <th width="50%" align="center">SPOTIFY TELEMETRY (LANYARD)</th>
+    <td align="left"><b>Primary Track:</b></td>
+    <td align="left">Platform Engineering & Cloud Infrastructure</td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <a href="https://discord.com">
-        <img src="https://lanyard.cnrad.dev/api/1272842844847214665?bg=0a0e17&animated=true&hideDiscrim=true&borderRadius=8px&showTimestamp=true" alt="Discord Live Presence" width="100%" />
-      </a>
-      <br/>
-      <sub><b>Status Focus:</b> Platform Engineering Enthusiast • Cloud Infrastructure • DevOps • Automation</sub>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://open.spotify.com">
-        <img src="https://spotify-github-profile.kittinanx.com/api/run?uid=1272842844847214665&api_server=https://api.lanyard.rest&bar_color=00f0ff&bar_color_cover=true&background_color=0a0e17&theme=novatorem" alt="Spotify Live Stream via Lanyard" width="100%" />
-      </a>
-      <br/>
-      <sub><b>Real-time Stream:</b> Synced live via Lanyard API Presence</sub>
-    </td>
+    <td align="left"><b>Core Focus:</b></td>
+    <td align="left">IaC, Container Orchestration, CI/CD Automation, Observability</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Architecture Philosophy:</b></td>
+    <td align="left">Declarative, Modular, Observable, Automated</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Supporting Capabilities:</b></td>
+    <td align="left">Applied Machine Learning & Intelligent Automation</td>
   </tr>
 </table>
+
 </div>
 
 ---
 
-### [//] INFRASTRUCTURE TERMINAL SESSION
+### [//] LIVE DEVELOPER PRESENCE & TELEMETRY
 
-```bash
-fendy@venzone-control-node:~$ whoami
-fendy@platform-engineer
+<div align="center">
 
-fendy@venzone-control-node:~$ docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}"
-NAMES                     STATUS              PORTS
-platform-core-gateway     Up 42 days (healthy) 0.0.0.0:443->443/tcp
-cloud-automation-worker   Up 42 days (healthy) 0.0.0.0:8080->8080/tcp
-observability-stack       Up 42 days (healthy) 0.0.0.0:3000->3000/tcp
+<table>
+  <tr>
+    <th width="100%" align="center">DISCORD PRESENCE & SPOTIFY ACTIVITY (LANYARD LIVE)</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://discord.com">
+        <img src="https://lanyard.cnrad.dev/api/1272842844847214665?bg=0a0e17&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Platform%20Engineering%20Enthusiast" alt="Discord Live Presence & Spotify via Lanyard" width="410" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LANYARD_STATUS-LIVE_TELEMETRY-00f0ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0e17" />
+      <img src="https://img.shields.io/badge/SPOTIFY-REAL--TIME_STREAM-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0a0e17" />
+      <br/>
+      <sub><b>Fallback Presence:</b> Platform Engineering Enthusiast • Cloud Infrastructure • DevOps • Automation</sub>
+    </td>
+  </tr>
+</table>
 
-fendy@venzone-control-node:~$ terraform plan -out=tfplan && terraform apply tfplan
-Plan: 8 to add, 0 to change, 0 to destroy.
-Apply complete! Resources: 8 added, 0 changed, 0 destroyed.
-Outputs: infrastructure_state = "PROVISIONED & CONFIGURED"
+</div>
 
-fendy@venzone-control-node:~$ kubectl get nodes -o wide
-NAME           STATUS   ROLES                  AGE   VERSION        INTERNAL-IP
-k3s-master-01  Ready    control-plane,master   180d  v1.30.2+k3s1   10.0.0.10
-k3s-worker-01  Ready    worker                 180d  v1.30.2+k3s1   10.0.0.11
+---
 
-fendy@venzone-control-node:~$ systemctl status platform-monitoring --no-pager
-* platform-monitoring.service - Real-time Infrastructure Telemetry
-     Loaded: loaded (/etc/systemd/system/platform-monitoring.service; enabled)
-     Active: active (running) since Thu 2026-08-20 00:00:00 UTC; 42 days ago
-```
+### [//] ANIMATED INFRASTRUCTURE TERMINAL SESSION
+
+<div align="center">
+
+<a href="https://github.com/fendyramadhani9-cloud">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=1000&color=00F0FF&background=0A0E17&width=700&height=180&lines=%24+whoami+-%3E+fendy%40platform-engineer;%24+docker+ps+-%3E+CONTAINER%3A+platform-core-gateway+%5BHEALTHY%5D;%24+terraform+apply+-auto-approve+-%3E+Resources%3A+8+added%2C+0+destroyed+%5BOK%5D;%24+kubectl+get+nodes+-%3E+k3s-master-01+%5BReady%5D+%7C+k3s-worker-01+%5BReady%5D;%24+systemctl+status+platform-monitoring+-%3E+Active%3A+active+(running)" alt="Live Terminal Session Animation" />
+</a>
+
+</div>
 
 ---
 
 ### [//] INFRASTRUCTURE AUTOMATION PIPELINE
 
-```
-+---------------+     +-------------+     +--------------------+     +---------------+
-|   Developer   | --> |   Git VCS   | --> | GitHub Actions     | --> | Docker Engine |
-|  Code & Spec  |     | Branch & PR |     | Automated CI / CD  |     | Containerize  |
-+---------------+     +-------------+     +--------------------+     +---------------+
-                                                                             |
-                                                                             v
-+---------------+     +-------------+     +--------------------+     +---------------+
-|    Grafana    | <-- | Prometheus  | <-- |  Kubernetes / K3s  | <-- |   Terraform   |
-| Visualization |     | Monitoring  |     | Cloud Cluster Pods |     |  IaC Provider |
-+---------------+     +-------------+     +--------------------+     +---------------+
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/01_CODE-DEVELOPER-00f0ff?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0a0e17" />
+    </td>
+    <td align="center"><b>&rarr;</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/02_VCS-GIT_%26_GITHUB-7928ca?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e17" />
+    </td>
+    <td align="center"><b>&rarr;</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/03_CI%2FCD-ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0a0e17" />
+    </td>
+    <td align="center"><b>&rarr;</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/04_RUNTIME-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0e17" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="7"><b>&darr;</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/08_OBSERVE-GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0a0e17" />
+    </td>
+    <td align="center"><b>&larr;</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/07_METRICS-PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0a0e17" />
+    </td>
+    <td align="center"><b>&larr;</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/06_CLUSTER-KUBERNETES%2FK3S-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0a0e17" />
+    </td>
+    <td align="center"><b>&larr;</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/05_IAC-TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0a0e17" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ### [//] PLATFORM ENGINEERING ROADMAP
 
-```
-[01] Linux Core & Shell Automation
-      |
-[02] Networking Fundamentals (TCP/IP, DNS, Reverse Proxy, Cloudflare Tunnel, MikroTik)
-      |
-[03] Containerization (Docker, Multi-stage Builds, Docker Compose)
-      |
-[04] Infrastructure as Code (Terraform Declarative Provisioning)
-      |
-[05] Cloud Services & Edge Infrastructure (AWS, Cloudflare Edge)
-      |
-[06] Container Orchestration (Kubernetes Architecture, K3s Edge Clusters)
-      |
-[07] CI/CD Pipeline Automation (GitHub Actions, Workflow Orchestration)
-      |
-[08] Observability & Telemetry (Grafana, Netdata, Prometheus Metrics)
-      |
-[09] GitOps & Progressive Delivery (Argo CD, Declarative Sync)
-      |
-[==] Modern Developer Platform Engineering (Internal Developer Platforms)
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/STAGE_01-LINUX_CORE-00f0ff?style=flat-square&logo=linux&logoColor=white&labelColor=0a0e17" /></td>
+    <td align="center"><b>&rarr;</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/STAGE_02-NETWORKING-0077b6?style=flat-square&logo=wireshark&logoColor=white&labelColor=0a0e17" /></td>
+    <td align="center"><b>&rarr;</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/STAGE_03-CONTAINERIZATION-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0a0e17" /></td>
+    <td align="center"><b>&rarr;</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/STAGE_04-IAC_TERRAFORM-844FBA?style=flat-square&logo=terraform&logoColor=white&labelColor=0a0e17" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/STAGE_05-CLOUD_AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0a0e17" /></td>
+    <td align="center"><b>&rarr;</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/STAGE_06-KUBERNETES_K3S-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0a0e17" /></td>
+    <td align="center"><b>&rarr;</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/STAGE_07-CI%2FCD_PIPELINES-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0a0e17" /></td>
+    <td align="center"><b>&rarr;</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/STAGE_08-OBSERVABILITY-F46800?style=flat-square&logo=grafana&logoColor=white&labelColor=0a0e17" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4"><img src="https://img.shields.io/badge/STAGE_09-GITOPS_ARGO_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white&labelColor=0a0e17" /></td>
+    <td align="center" colspan="4"><img src="https://img.shields.io/badge/TARGET-INTERNAL_DEVELOPER_PLATFORMS-00f0ff?style=flat-square&logo=fastapi&logoColor=white&labelColor=0a0e17" /></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -182,20 +204,20 @@ fendy@venzone-control-node:~$ systemctl status platform-monitoring --no-pager
 
 #### OBSERVABILITY & NETWORKING
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0a0e17" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/NETDATA-00AB44?style=for-the-badge&logo=netdata&logoColor=white&labelColor=0a0e17" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MIKROTIK-000000?style=for-the-badge&logo=mikrotik&logoColor=white&labelColor=0a0e17" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CLOUDFLARE_TUNNEL-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0a0e17" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TCP%2FIP_&_DNS-007acc?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0e17" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/REVERSE_PROXY-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0a0e17" /></a>
+  <img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/NETDATA-00AB44?style=for-the-badge&logo=netdata&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/MIKROTIK-000000?style=for-the-badge&logo=mikrotik&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/CLOUDFLARE_TUNNEL-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/TCP%2FIP_&_DNS-007acc?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/REVERSE_PROXY-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0a0e17" />
 </p>
 
 #### ARTIFICIAL INTELLIGENCE & MACHINE LEARNING (SUPPORTING)
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GOOGLE_GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0a0e17" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0a0e17" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/QWEN-615DF7?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=0a0e17" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0a0e17" /></a>
+  <img src="https://img.shields.io/badge/GOOGLE_GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/QWEN-615DF7?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0a0e17" />
 </p>
 
 #### BACKEND & DEVELOPMENT TOOLS
@@ -209,25 +231,18 @@ fendy@venzone-control-node:~$ systemctl status platform-monitoring --no-pager
 
 ### [//] CURRENTLY EXPLORING & CONTINUOUS EVOLUTION
 
-```
-+---------------------+---------------------------------------------------------+
-| DOMAIN              | ACTIVE EXPLORATION & RESEARCH TARGETS                   |
-+---------------------+---------------------------------------------------------+
-| Orchestration       | Kubernetes Deep Dive, K3s Multi-node, Helm Charts       |
-| Observability       | Prometheus Architecture, Loki Log Aggregation           |
-| GitOps Delivery     | Argo CD, Progressive Canary Deployments                 |
-| Platform Automation | Developer Platforms, Custom Automation Operators        |
-+---------------------+---------------------------------------------------------+
-```
-
 <div align="center">
-  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/K3S-FFC61C?style=flat-square&logo=k3s&logoColor=black&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/HELM-0F1689?style=flat-square&logo=helm&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=flat-square&logo=prometheus&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/GRAFANA_LOKI-F46800?style=flat-square&logo=grafana&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/ARGO_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/GITOPS-000000?style=flat-square&logo=git&logoColor=white&labelColor=0a0e17" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/K3S-FFC61C?style=for-the-badge&logo=k3s&logoColor=black&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/HELM-0F1689?style=for-the-badge&logo=helm&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/GRAFANA_LOKI-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/ARGO_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=0a0e17" />
+  <img src="https://img.shields.io/badge/GITOPS-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0e17" />
+</p>
+
 </div>
 
 ---
@@ -236,25 +251,19 @@ fendy@venzone-control-node:~$ systemctl status platform-monitoring --no-pager
 
 <div align="center">
 
-```
-================================================================================
-PROJECT: ZenithOS — Personal Life Assistant Platform
-ARCHITECTURE: Microservices | Containerized | Automated CI/CD | AI Integration
-================================================================================
-```
-
 <table>
   <tr>
-    <td>
-      <b>Project Core:</b> Personal Life Assistant Platform<br/>
-      <b>Platform Scope:</b> Software Platform + Automation + CI/CD + Cloud Infrastructure Workflow<br/>
-      <b>Stack & Tooling:</b> Node.js, Flutter Client, Docker Engine, GitHub Actions CI/CD, Cloud Deployment<br/>
-      <b>Engineering Highlights:</b>
-      <ul>
-        <li>Automated container build and test validation pipeline via GitHub Actions</li>
-        <li>Cloud-ready architectural blueprint with decoupled service communication</li>
-        <li>Integrated intelligence layer for automated task assistance</li>
-      </ul>
+    <td align="center">
+      <h3>ZENITHOS &mdash; PERSONAL LIFE ASSISTANT PLATFORM</h3>
+      <p><b>Platform Scope:</b> Software Platform &bull; Automation &bull; CI/CD &bull; Cloud Infrastructure Workflow</p>
+      <p><b>Stack &amp; Tooling:</b> Node.js &bull; Flutter Client &bull; Docker Engine &bull; GitHub Actions CI/CD &bull; Cloud Deployment</p>
+      <div align="left">
+        <ul>
+          <li>Automated container build, linting, and test validation pipeline via GitHub Actions.</li>
+          <li>Cloud-ready architectural blueprint with decoupled microservice communication.</li>
+          <li>Integrated intelligence layer for automated task assistance and workflow execution.</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
@@ -318,12 +327,9 @@ ARCHITECTURE: Microservices | Containerized | Automated CI/CD | AI Integration
 <div align="center">
 
 <!-- ANIMATED FOOTER -->
-```
-================================================================================
-  [ BUILD ]  --->  [ DEPLOY ]  --->  [ MONITOR ]  --->  [ IMPROVE ]  --->  [ REPEAT ]
-================================================================================
-          Infrastructure is Code. Automation is Leverage. Observability is Visibility.
-```
+<a href="https://github.com/fendyramadhani9-cloud">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00F0FF&background=0A0E1700&center=true&vCenter=true&multiline=false&width=650&height=40&lines=%5B+BUILD+%5D+--%3E+%5B+DEPLOY+%5D+--%3E+%5B+MONITOR+%5D+--%3E+%5B+IMPROVE+%5D+--%3E+%5B+REPEAT+%5D;Infrastructure+is+Code.++Automation+is+Leverage.++Observability+is+Visibility." alt="Looping Footer Animation" />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,10,30&height=120&section=footer" width="100%" alt="Footer Banner" />
 
