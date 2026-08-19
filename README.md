@@ -240,16 +240,12 @@ graph LR
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=fendyramadhani9-cloud&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=8)](https://github.com/fendyramadhani9-cloud)
-
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fendyramadhani9-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050811&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&border_radius=10)](https://github.com/fendyramadhani9-cloud)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fendyramadhani9-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050811&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&border_radius=10)](https://github.com/fendyramadhani9-cloud)
 [![Streak Stats](https://streak-stats.demolab.com/?user=fendyramadhani9-cloud&theme=tokyonight&hide_border=true&background=050811&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&border_radius=10)](https://github.com/fendyramadhani9-cloud)
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fendyramadhani9-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=050811&title_color=00f0ff&text_color=94a3b8&border_radius=10)](https://github.com/fendyramadhani9-cloud)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=fendyramadhani9-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=050811&title_color=00f0ff&text_color=94a3b8&border_radius=10)](https://github.com/fendyramadhani9-cloud)
 
 <br/>
 
