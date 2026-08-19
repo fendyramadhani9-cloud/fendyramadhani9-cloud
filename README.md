@@ -27,7 +27,7 @@
 
 ---
 
-### [//] SYSTEM CONTROL PANEL
+### SYSTEM CONTROL PANEL
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-### [//] ABOUT THE ENGINEER
+### ABOUT THE ENGINEER
 
 <div align="center">
 
@@ -98,7 +98,18 @@
 
 ---
 
-### [//] LIVE DEVELOPER PRESENCE & TELEMETRY
+### T-SHAPED PLATFORM ENGINEERING PROFILE
+
+<div align="center">
+
+<!-- T-SHAPED SKILLS ANIMATION SVG -->
+<img src="assets/t-shaped-skills.svg" width="100%" alt="T-Shaped Platform Engineering Profile" />
+
+</div>
+
+---
+
+### LIVE DEVELOPER PRESENCE &amp; TELEMETRY
 
 <div align="center">
 
@@ -128,7 +139,7 @@
 
 ---
 
-### [//] ANIMATED INFRASTRUCTURE TERMINAL SESSION
+### ANIMATED INFRASTRUCTURE TERMINAL SESSION
 
 <div align="center">
 
@@ -140,7 +151,7 @@
 
 ---
 
-### [//] INFRASTRUCTURE AUTOMATION PIPELINE
+### INFRASTRUCTURE AUTOMATION PIPELINE
 
 <div align="center">
 
@@ -188,7 +199,7 @@
 
 ---
 
-### [//] PLATFORM ENGINEERING ROADMAP
+### PLATFORM ENGINEERING ROADMAP
 
 <div align="center">
 
@@ -221,7 +232,7 @@
 
 ---
 
-### [//] TECHNICAL ARSENAL
+### TECHNICAL ARSENAL
 
 <div align="center">
 
@@ -261,7 +272,7 @@
 
 ---
 
-### [//] CURRENTLY EXPLORING &amp; CONTINUOUS EVOLUTION
+### CURRENTLY EXPLORING &amp; CONTINUOUS EVOLUTION
 
 <div align="center">
 
@@ -273,7 +284,7 @@
 
 ---
 
-### [//] FEATURED PLATFORM PROJECT
+### FEATURED PLATFORM PROJECT
 
 <div align="center">
 
@@ -298,7 +309,7 @@
 
 ---
 
-### [//] CONTRIBUTION ACTIVITY STREAM
+### CONTRIBUTION ACTIVITY STREAM
 
 <div align="center">
 
@@ -313,33 +324,16 @@
 
 ---
 
-### [//] TELEMETRY &amp; GITHUB METRICS
+### GITHUB TELEMETRY &amp; METRICS
 
 <div align="center">
 
-<!-- GITHUB TROPHIES -->
+<!-- GITHUB STREAK STATS -->
 <a href="https://github.com/fendyramadhani9-cloud">
-  <img src="https://github-profile-trophy.vercel.app/?username=fendyramadhani9-cloud&theme=tokyonight&no-bg=true&no-frame=true&margin_w=10&column=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=fendyramadhani9-cloud&theme=tokyonight&hide_border=true&background=050811&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" alt="GitHub Streak Stats" />
 </a>
 
 <br/><br/>
-
-<!-- STATS & STREAK CARDS -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fendyramadhani9-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050811&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fendyramadhani9-cloud&theme=tokyonight&hide_border=true&background=050811&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fendyramadhani9-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=050811&title_color=00f0ff&text_color=94a3b8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 <!-- ACTIVITY GRAPH -->
 <a href="https://github.com/fendyramadhani9-cloud">
